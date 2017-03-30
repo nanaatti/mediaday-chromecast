@@ -42,4 +42,3 @@ Your use of this sample is subject to, and by using or downloading the sample fi
 
 ## Google+
  Google Cast Developers Community on Google+ [http://goo.gl/TPLDxj](http://goo.gl/TPLDxj)
-# mediaday-chromecast
